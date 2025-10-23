@@ -1,0 +1,27 @@
+# Cool PWA Icon Generator - Python Dependencies
+# Offline AI-Powered Progressive Web App Icon Maker
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# AI/ML - Stable Diffusion
+# NOTE: PyTorch is installed separately - see installation instructions
+# For RTX 5060 Ti with CUDA 12.8, use:
+# python -m pip install --pre torch torchvision torchaudio --index-url https://download.pytorch.org/whl/nightly/cu128
+diffusers>=0.35.2
+transformers>=4.57.1
+accelerate==0.25.0
+safetensors>=0.6.2
+
+# Image Processing
+Pillow==10.1.0
+numpy==1.24.3
+
+# Utilities
+pydantic==2.5.0
+python-dotenv==1.0.0
+
+# CUDA support (optional - install separately if using GPU)
+# Follow PyTorch installation guide for CUDA: https://pytorch.org/get-started/locally/

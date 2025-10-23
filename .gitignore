@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Models (large files)
+models/*.safetensors
+models/*.ckpt
+models/*.pt
+
+# Internal documentation (not for distribution)
+docs-internal/
+
+# Temporary files
+temp/
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+
+# React
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# Production
+build/
+dist/
+
+# Logs
+*.log
+logs/
+
+# Environment
+.env
+.env.local
+
+# Generated files
+static/
+*.zip
