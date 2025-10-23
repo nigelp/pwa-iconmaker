@@ -133,24 +133,24 @@ For comprehensive installation instructions, troubleshooting, and configuration 
 
 ### Basic Icon Generation
 ```
-Prompt: "A sleek blue calendar app icon with modern design"
+Prompt: "colorful kettle"
 Steps: 20 (fast) or 50 (high quality)
 Format: PNG (recommended) or JPEG
 ```
 
 ### Advanced Prompts
 ```
-"Minimalist chat bubble icon, gradient from purple to blue, clean flat design"
-"Professional finance app icon with dollar sign, gold and navy color scheme"
-"Friendly weather app icon with sun and clouds, bright cheerful colors"
+"vintage blue car"
+"detailed finance app"
+"weather app minimalism"
 ```
 
 ### Tips for Best Results
-- Be specific about colors, style, and elements
-- Use descriptive adjectives (modern, minimalist, professional, etc.)
+- Be specific about color and style
+- Use descriptive adjectives (modern, minimalist, detailed, etc.)
 - Specify design style (flat, gradient, 3D, etc.)
-- Include emotion or feel (friendly, professional, energetic, etc.)
 - Try to keep your prompts as simple as possible, but make sure to experiment
+- Remember this is a local model, so it may take quite a few tries to get something you like! 
 
 ---
 
