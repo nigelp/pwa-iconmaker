@@ -1,5 +1,8 @@
 # 🎨 Cool PWA Icon Generator
 
+<img width="474" height="305" alt="pwagrab5-small" src="https://github.com/user-attachments/assets/b7866ac7-095e-4164-907a-cd1a33a1ae13" />
+
+
 **Offline AI-Powered Progressive Web App Icon Maker**
 
 (Check out my other cool tools and utilities at https://www.dollarware.net. Some free, some not. :) 
